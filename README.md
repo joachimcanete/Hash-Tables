@@ -23,7 +23,7 @@ There are three components to this lesson, in the following order:
 
 1. Fork and clone this repository to your local machine and work in the relevant files
 1. Use [this codepen](https://codepen.io/GAmarketing/pen/ZPQZrx) provided by the myGA Hash Tables Deep Dive module
-1. Regardless of which way you choose, the exercises are the same
+1. Regardless of which way you choose, the exercises are the same (but the codepen has testing)
 
 ## Additional Resources
 - Handy visualizations for a [closed addressing hash table](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html) and an [open addressing hash table](https://www.cs.usfca.edu/~galles/visualization/ClosedHash.html).
