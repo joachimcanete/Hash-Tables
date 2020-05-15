@@ -12,6 +12,12 @@ By the end of this lesson, you will be able to:
 * Big O Notation
 * Linked Lists
 
+## Homework Instructions 
+
+Complete the activity as outlined below. When you are finished, submit an an issue answering the exit ticket questions to summarize your learning on this topic! 
+
+Unless otherwise stated, homework is due by 10:00 am ET the next morning.
+
 ## Activity
 
 There are three components to this lesson, in the following order: 
