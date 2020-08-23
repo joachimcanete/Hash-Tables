@@ -1,6 +1,6 @@
 ---
-name: Exit ticket submission
-about: Issue for submitting exit ticket
+name: Exercise submission
+about: Issue for submitting exercise
 title: YOUR FULL NAME
 labels: ''
 assignees: ''
