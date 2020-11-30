@@ -36,7 +36,7 @@ class LinkedList {
 class HashTable {
 	constructor(size) {
 		// initialize table size - prime number size is recommended to avoid clustering
-		// intialize the table to have "size" number of elements, set to null
+		// initialize the table to have "size" number of elements, set to null
 		// the table will be an array named "table"
 	}
 
