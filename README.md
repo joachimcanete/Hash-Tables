@@ -16,7 +16,7 @@ By the end of this lesson, you will be able to:
 
 Complete the activity as outlined below. When you are finished, submit an an issue answering the exit ticket questions to summarize your learning on this topic! 
 
-Unless otherwise stated, homework is due by 10:00 am ET the next morning.
+Unless otherwise stated, homework is due by 9:00 am ET the next morning.
 
 ## Activity
 
